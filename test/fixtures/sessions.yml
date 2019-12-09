@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  room_id: 
+  movie_id: 
+  date: 2019-12-08 22:07:26
+
+two:
+  room_id: 
+  movie_id: 
+  date: 2019-12-08 22:07:26
