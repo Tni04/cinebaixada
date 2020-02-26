@@ -74,8 +74,11 @@ GEM
     mini_portile2 (2.4.0)
     minitest (5.13.0)
     mysql2 (0.4.10)
-    nokogiri (1.9.1)
+    nio4r (2.5.2)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
+    puma (4.3.1)
+      nio4r (~> 2.0)
     rack (1.6.11)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -156,6 +159,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   mysql2 (>= 0.3.13, < 0.5)
+  puma
   rails (= 4.2.5.2)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
